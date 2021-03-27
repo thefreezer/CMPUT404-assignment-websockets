@@ -59,3 +59,8 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+
+Sources
+=========
+* https://github.com/abramhindle/WebSocketsExamples/blob/master/broadcaster.py (all things websocket)
+* https://github.com/thefreezer/CMPUT404-assignment-ajax (design from assignment4)
